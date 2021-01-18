@@ -145,7 +145,7 @@ int main()
 	Model casa_muro("resources/casa/walls.obj");
 	Model casa_techo("resources/casa/techo.obj");
 	Model casa_comedor("resources/casa/salacomedor.obj");
-	Model casa_bano("resources/casa/bath.obj");
+	Model casa_bano("resources/casa/mueblesbath.obj");
 	Model casa_recamara("resources/casa/recamara.obj");
 	Model casa_regadera("resources/casa/regadera.obj");
 	Model casa_sauna("resources/casa/sauna.obj");
@@ -157,9 +157,11 @@ int main()
 	Model puerta_principal("resources/Models/puertapt.obj");
 	Model puerta_recamara("resources/Models/puertart.obj");
 	Model puerta_bano("resources/Models/puertabt.obj");
-	Model puerta_trasera("resources/Models/puertatrasera.obj");
-	Model mundo("resources/carro/carro.obj");
-	Model silla("resources/carro/carro.obj");
+	Model puerta_trasera("resources/Models/puertatt.obj");
+	Model mundo("resources/carro/mundot.obj");
+	Model silla("resources/carro/sillat.obj");
+	Model lampara_s("resources/carro/lamparat.obj");
+	Model lampara_r("resources/carro/lampt.obj");
 
 	// render loop
 	/* ---------------------------- */
@@ -313,6 +315,16 @@ int main()
 		model = glm::translate(model, glm::vec3(movpuertat, 0.0f, 0.0f));
 		staticShader.setMat4("model", model);
 		silla.Draw(staticShader);
+
+		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(movpuertat, 0.0f, 0.0f));
+		staticShader.setMat4("model", model);
+		lampara_r.Draw(staticShader);
+
+		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(movpuertat, 0.0f, 0.0f));
+		staticShader.setMat4("model", model);
+		lampara_s.Draw(staticShader);
 
 		// -------------------------------------------------------------------------------------------------------------------------
 		// End Scenario
