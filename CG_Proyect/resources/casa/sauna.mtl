@@ -1,0 +1,62 @@
+newmtl bath:3D_CROMATURASG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl bath:3D_MURATURASG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 43.25
+newmtl bath:3D_RIVESTIMENTOFBXASC032LEGNOFBXASC032SAUNAFBXASC032ORIZZONTALESG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd duela.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 179.02
+newmtl bath:3D_VETROFBXASC032SATINATOSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.02 0.02 0.02
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 360.04
+newmtl bath:3D_VETROSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl bath:3D_VETROSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl bath:3D_VETROSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00

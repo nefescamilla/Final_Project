@@ -1,0 +1,169 @@
+newmtl casafinaltriang12:initialShadingGroup74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang12:initialShadingGroup106
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaverde.jpg
+Ni 1.00
+newmtl casafinaltriang13:initialShadingGroup106
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaverde.jpg
+Ni 1.00
+newmtl casafinaltriang46:Box174SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 10.00 10.00 10.00
+Ns 1022.00
+newmtl casafinaltriang46:Object002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera2.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang46:Object002SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gris_rayado.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang46:Object003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera2.jpg
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 1022.00
+newmtl casafinaltriang46:Object003SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 1022.00
+newmtl casafinaltriang46:Object003_ncl1_1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl casafinaltriang46:Object003_ncl1_1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl casafinaltriang46:Object3644SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang46:Object3645SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.76 0.76 0.76
+Ns 254.00
+newmtl casafinaltriang46:Plane006SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang46:Plane006SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang46:Plane014SG
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.68 0.68 0.68
+Ns 1022.00
+newmtl casafinaltriang46:Plane014SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bosch.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns -1.00
+newmtl casafinaltriang46:Plane014SG4
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang46:Plane015SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 510.00
+newmtl casafinaltriang46:Plane016SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd parrilla.jpg
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 126.00
+newmtl casafinaltriang46:Plane016SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd parrilla.jpg
+Ni 1.00
+Ks 0.39 0.39 0.39
+Ns 722.08

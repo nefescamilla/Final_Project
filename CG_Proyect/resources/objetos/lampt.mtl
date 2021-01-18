@@ -1,0 +1,545 @@
+newmtl casafinaltriang:3D_CERAMICASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ceramica.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang:3D_CROMATURASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl casafinaltriang:3D_CROMATURASG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl casafinaltriang:3D_CROMATURASG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl casafinaltriang:3D_MURATURASG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 43.25
+newmtl casafinaltriang:3D_PAVIMENTOFBXASC032BAGNOFBXASC032CIOTTOLISG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ceramica.jpg
+Ni 1.00
+Ks 0.13 0.13 0.13
+Ns 236.86
+newmtl casafinaltriang:3D_RIVESTIMENTOFBXASC032LEGNOFBXASC032SAUNAFBXASC032ORIZZONTALESG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd duela.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 179.02
+newmtl casafinaltriang:3D_TUBOFBXASC032DOCCIASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl casafinaltriang:3D_VETROFBXASC032SATINATOSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.02 0.02 0.02
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 360.04
+newmtl casafinaltriang:3D_VETROSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang:3D_VETROSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang:3D_VETROSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang:Box174SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 10.00 10.00 10.00
+Ns 1022.00
+newmtl casafinaltriang:InteriorDoor2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl casafinaltriang:InteriorDoor4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl casafinaltriang:InteriorDoor6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl casafinaltriang:InteriorDoor10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl casafinaltriang:Material_032
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl casafinaltriang:Object002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera2.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang:Object002SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gris_rayado.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang:Object003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera2.jpg
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 1022.00
+newmtl casafinaltriang:Object003SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 1022.00
+newmtl casafinaltriang:Object003_ncl1_1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl casafinaltriang:Object003_ncl1_1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl casafinaltriang:Object3644SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang:Object3645SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.76 0.76 0.76
+Ns 254.00
+newmtl casafinaltriang:Plane006SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang:Plane006SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 510.00
+newmtl casafinaltriang:Plane014SG
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.68 0.68 0.68
+Ns 1022.00
+newmtl casafinaltriang:Plane014SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bosch.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns -1.00
+newmtl casafinaltriang:Plane014SG4
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl casafinaltriang:Plane015SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 510.00
+newmtl casafinaltriang:Plane016SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd parrilla.jpg
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 126.00
+newmtl casafinaltriang:Plane016SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd parrilla.jpg
+Ni 1.00
+Ks 0.39 0.39 0.39
+Ns 722.08
+newmtl casafinaltriang:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd granito.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametal.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturatelaroja.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera2.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd murosinternos.png
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd murosinternos.png
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd murosinternos.png
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup33
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturasalmon.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturasalmon.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturasalmon.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd murosinternos.png
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup53
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup65
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup67
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamorada.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup69
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup73
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturanaranja.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup76
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup79
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup81
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup83
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup97
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup100
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup106
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaverde.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup108
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamarilla.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup110
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup112
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturamorada.jpg
+Ni 1.00
+newmtl casafinaltriang:initialShadingGroup116
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaazul.jpg
+Ni 1.00
+newmtl lampt:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametal.jpg
+Ni 1.00
+newmtl lampt:initialShadingGroup2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd texturamarilla.jpg
+newmtl lampt1:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturametal.jpg
+Ni 1.00
+newmtl lampt1:initialShadingGroup2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd texturamarilla.jpg

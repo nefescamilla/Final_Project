@@ -1,0 +1,18 @@
+newmtl lamparat:wire_143225087
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.56 0.88 0.34
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+map_Kd texturamadera2.jpg
+newmtl lamparat:wire_143225089
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.56 0.88 0.34
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+map_Kd texturamarilla.jpg

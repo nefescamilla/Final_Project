@@ -1,0 +1,71 @@
+newmtl bath:3D_CERAMICASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ceramica.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl bath:3D_CROMATURASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl bath:3D_CROMATURASG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
+newmtl bath:3D_MURATURASG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 43.25
+newmtl bath:3D_PAVIMENTOFBXASC032BAGNOFBXASC032CIOTTOLISG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ceramica.jpg
+Ni 1.00
+Ks 0.13 0.13 0.13
+Ns 236.86
+newmtl bath:3D_TUBOFBXASC032DOCCIASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 510.00
+newmtl bath:3D_VETROSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl bath1:3D_CROMATURASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cromo.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 360.04
