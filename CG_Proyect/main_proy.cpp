@@ -358,7 +358,7 @@ int main()
 
 		//Moving Chair
 		model = glm::mat4(1.0f);
-		//model = glm::translate(model, glm::vec3(-80.64f, 14.56f, -20.20f));
+		model = glm::translate(model, glm::vec3(-80.64f, 14.56f, -20.20f));
 		model = glm::translate(model, glm::vec3(movx, 1.0f, movz));
 		staticShader.setMat4("model", model);
 		silla.Draw(staticShader);
