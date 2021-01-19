@@ -57,7 +57,7 @@ Para la puerta del baño
 
 PARA LAS ANIMACIONES COMPLEJAS
 Para el movimiento de la silla de la cocina
-- G para iniciar y detener
+- T para iniciar y detener
 
 Para la rotación del mundo
 - Y para iniciar y detener
