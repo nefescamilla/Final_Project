@@ -14,7 +14,8 @@ Las instrucciones que a continuación se enlistan funcionan para la presente ver
 #######################################################################################################################################
 
 
-Independiente a esta cámara podemos con el uso del mouse girar en todas direcciones como siguiendo un puntero. 
+Independiente a esta cámara podemos con el uso del mouse girar en todas direcciones como siguiendo un puntero.
+Esto sin afectar las teclas, es decir, W siempre se moverá en el eje Z, A en el eje X y Q en el Y, y así sucesivamente.
 Al incluir tanto la posición de la cámara sintética como de la posición de la luz en la misma tecla, 
   el objeto se alumbrará al acercarnos y se oscurecerá al alejarnos.
 
@@ -34,18 +35,18 @@ E para bajar
 #######################################################################################################################################
 
 
-He agregado 5 animaciones simples que se basan en la traslación de objetos y 2 basadas en KeyFrames.
+He agregado 4 animaciones simples que se basan en la traslación de objetos y 2 animaciones complejas basadas en la automatización de movimientos
 
 PARA LAS ANIMACIONES SIMPLES
 Para la puerta principal
 - P para abrir
 - L para cerrar
 
-Para la puerta de la recámara
+Para la puerta del patio 
 - O para abrir
 - K para cerrar
 
-Para la puerta del patio
+Para la puerta de la recamara
 - I para abrir
 - J para cerrar
 
@@ -53,18 +54,14 @@ Para la puerta del baño
 - U para abrir
 - H para cerrar
 
-Para girar un mundo en la recámara
-- Y para abrir
-- G para cerrar
 
-PARA LAS ANIMACIONES BASADAS EN KEYFRAMES
+PARA LAS ANIMACIONES COMPLEJAS
 Para el movimiento de la silla de la cocina
-- T para iniciar
-- F para detener
+- G para iniciar y detener
 
-Para el movimiento de la lámpara
-- B para iniciar
-- V para detener
+Para la rotación del mundo
+- Y para iniciar y detener
+
 
 
 
