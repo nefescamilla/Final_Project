@@ -90,15 +90,18 @@ void animateChair(void)
 	{
 		if (muevesilla)
 		{
-			movx += 2.0f;
-			movz += 1.0f;
-			if (movx >= 10.0f)
-				muevesilla = false;
+			if (movx <= 14.0f)
+			{
+				movx += 1.5f;
+				movz += 1.2f;
+			}	
 		}
 		else
 		{
 			muevesilla = true;
 		}
+		std::cout << "posicion = " << movx << " en X" << std::endl;
+		std::cout << "posicion = " << movz << " en Z" << std::endl;
 	}
 }
 
@@ -282,12 +285,6 @@ int main()
 		staticShader.setVec3("light.direction", lightDirection);
 		staticShader.setVec3("viewPos", camera.Position);
 
-		//Works for animated Models but not for Simple Objects because they are already loaded with traslation, scale and rotation
-		/* ----------------------------------------------------------------------------------------------------------------------- */
-		/*model = glm::translate(model, glm::vec3(0.0f, 0.0f, 0.0f));
-		model = glm::rotate(glm::mat4(1.0f), glm::radians(90.0f), glm::vec3(0.0f, 0.0f, 0.0f));
-		model = glm::scale(model, glm::vec3(1.0f));*/
-
 		// Load Models
 		/* ---------------------------------- */
 		staticShader.setMat4("model", model);
@@ -463,7 +460,7 @@ void my_input(GLFWwindow* window)
 		movpuertab -= 1.0f;
 
 	//Animation FrameKeys
-	/* ------------------------- */
+	/* -------------------------------------------------------------------- */
 	// Spinnig Globe
 	if (glfwGetKey(window, GLFW_KEY_Y) == GLFW_PRESS)
 	{
@@ -473,7 +470,7 @@ void my_input(GLFWwindow* window)
 			animacionGT = true;
 	}
 	// Moving Chair
-	if (glfwGetKey(window, GLFW_KEY_G) == GLFW_PRESS && 0 < movpuertat)
+	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS)
 	{
 		if (animacionSI)
 			animacionSI = false;
