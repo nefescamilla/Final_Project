@@ -91,14 +91,13 @@ void animateChair(void)
 		if (muevesilla)
 		{
 			movx += 2.0f;
-			if (movx<= 10.0f)
+			movz += 1.0f;
+			if (movx >= 10.0f)
 				muevesilla = false;
 		}
 		else
 		{
-			movz += 1.0f;
-			if (movz <= 5.0f)
-				muevesilla = true;
+			muevesilla = true;
 		}
 	}
 }
@@ -227,7 +226,7 @@ int main()
 		/*--------------------------------------------------------------------------*/
 		staticShader.setVec3("viewPos", camera.Position);
 		staticShader.setVec3("dirLight.direction", lightDirection);
-		staticShader.setVec3("dirLight.ambient", glm::vec3(1.0f, 1.0f, 1.0f));
+		staticShader.setVec3("dirLight.ambient", glm::vec3(0.607f, 0.61f, 0.615f));
 		staticShader.setVec3("dirLight.diffuse", glm::vec3(1.0f, 1.0f, 1.0f));
 		staticShader.setVec3("dirLight.specular", glm::vec3(1.0f, 1.0f, 1.0f));
 
@@ -253,13 +252,8 @@ int main()
 
 		//Set model matrix
 		/*--------------------------------*/
-		glm::mat4 model = glm::mat4(1.0f);	 //Models 
-		glm::mat4 tmp_pd = glm::mat4(1.0f);  //Principal Door animation
-		glm::mat4 tmp_bd = glm::mat4(1.0f);  //Bath Door animation
-		glm::mat4 tmp_td = glm::mat4(1.0f);  //Backyard Door animation
-		glm::mat4 tmp_rd = glm::mat4(1.0f);  //Room Door animation
-		glm::mat4 tmp_mg = glm::mat4(1.0f);  //Globe animation
-		glm::mat4 tmp_mc = glm::mat4(1.0f);  //Chair animation
+		glm::mat4 model = glm::mat4(1.0f);	 //Models Matrix
+		glm::mat4 tmp_bd = glm::mat4(1.0f);  //Bath Door Temporal Matrix
 
 		// view/projection transformations
 		/*-------------------------------------------------------------------------------------------------------------------------*/
@@ -323,7 +317,7 @@ int main()
 		staticShader.setMat4("model", model);
 		lampara_s.Draw(staticShader);
 
-		tmp_pd = model = glm::mat4(1.0f);
+		model = glm::mat4(1.0f);
 		staticShader.setMat4("model", model);
 		casa_muro.Draw(staticShader);
 
@@ -336,7 +330,7 @@ int main()
 		staticShader.setMat4("model", model);
 		puerta_principal.Draw(staticShader);
 
-		//Bath Door
+		//Back Door
 		model = glm::mat4(1.0f);
 		model = glm::translate(tmp_bd, glm::vec3(-11.0f, 0.0f, 0.0f));
 		model = glm::translate(tmp_bd, glm::vec3(-movpuertab, 0.0f, 0.0f));
@@ -452,21 +446,21 @@ void my_input(GLFWwindow* window)
 		movpuertap += 5.0f;
 	if (glfwGetKey(window, GLFW_KEY_L) == GLFW_PRESS && 0 < movpuertap)
 		movpuertap -= 5.0f;
-	// Bath Door
+	// Back Door
 	if (glfwGetKey(window, GLFW_KEY_O) == GLFW_PRESS && 90 > movpuertat)
-		movpuertat += 1.0f;
+		movpuertat += 5.0f;
 	if (glfwGetKey(window, GLFW_KEY_K) == GLFW_PRESS && 0 < movpuertat)
-		movpuertat -= 1.0f;
+		movpuertat -= 5.0f;
 	// Room door
 	if (glfwGetKey(window, GLFW_KEY_I) == GLFW_PRESS && 160 > movpuertar)
 		movpuertar += 5.0f;
 	if (glfwGetKey(window, GLFW_KEY_J) == GLFW_PRESS && 0 < movpuertar)
 		movpuertar -= 5.0f;
-	// Backyard Door
+	// Bath Door
 	if (glfwGetKey(window, GLFW_KEY_U) == GLFW_PRESS && 25 > movpuertab)
-		movpuertab += 5.0f;
+		movpuertab += 1.0f;
 	if (glfwGetKey(window, GLFW_KEY_H) == GLFW_PRESS && 0 < movpuertab)
-		movpuertab -= 5.0f;
+		movpuertab -= 1.0f;
 
 	//Animation FrameKeys
 	/* ------------------------- */
