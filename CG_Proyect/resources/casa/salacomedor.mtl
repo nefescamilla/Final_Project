@@ -1,4 +1,4 @@
-newmtl casafinaltriang45:Material_032
+newmtl salacomedor:Material_032
 illum 4
 Kd 0.00 0.00 0.00
 Ka 1.00 1.00 1.00
@@ -7,35 +7,35 @@ map_Kd madera.jpg
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl casafinaltriang45:initialShadingGroup6
+newmtl salacomedor:initialShadingGroup6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd texturametal.jpg
 Ni 1.00
-newmtl casafinaltriang45:initialShadingGroup8
+newmtl salacomedor:initialShadingGroup8
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd marmol2.jpg
 Ni 1.00
-newmtl casafinaltriang45:initialShadingGroup10
+newmtl salacomedor:initialShadingGroup10
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd texturatelaroja.jpg
 Ni 1.00
-newmtl casafinaltriang45:initialShadingGroup12
+newmtl salacomedor:initialShadingGroup12
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd madera2.jpg
 Ni 1.00
-newmtl casafinaltriang45:initialShadingGroup53
+newmtl salacomedor:initialShadingGroup53
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00

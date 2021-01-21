@@ -1,70 +1,49 @@
-newmtl techo1:initialShadingGroup2
+newmtl techo2:initialShadingGroup2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd texturareflejo.jpg
 Ni 1.00
-newmtl techo1:initialShadingGroup33
+newmtl techo2:initialShadingGroup33
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd madera.jpg
 Ni 1.00
-newmtl techo1:initialShadingGroup58
+newmtl techo2:initialShadingGroup60
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd madera.jpg
 Ni 1.00
-newmtl techo1:initialShadingGroup60
+newmtl techo2:initialShadingGroup74
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd madera.jpg
 Ni 1.00
-newmtl techo1:initialShadingGroup74
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd madera.jpg
-Ni 1.00
-newmtl techo1:initialShadingGroup86
+newmtl techo2:initialShadingGroup86
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd texturateja.jpg
 Ni 1.00
-newmtl techo1:initialShadingGroup88
+newmtl techo2:initialShadingGroup94
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd texturareflejo.jpg
 Ni 1.00
-newmtl techo1:initialShadingGroup92
+newmtl walls1:initialShadingGroup161
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd texturareflejo.jpg
-Ni 1.00
-newmtl techo1:initialShadingGroup94
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd texturareflejo.jpg
-Ni 1.00
-newmtl techo1:initialShadingGroup100
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd madera.jpg
+map_Kd piso.jpg
 Ni 1.00
